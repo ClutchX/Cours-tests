@@ -689,11 +689,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\Converter\\Converter.csproj",
+      "projectUniqueName": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\Converter\\Converter.csproj",
       "projectName": "Converter",
-      "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\Converter\\Converter.csproj",
+      "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\Converter\\Converter.csproj",
       "packagesPath": "C:\\Users\\i325551\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\Converter\\obj\\",
+      "outputPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\Converter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\ConverterLogic\\ConverterLogic.csproj": {
-              "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\ConverterLogic\\ConverterLogic.csproj"
+            "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\ConverterLogic\\ConverterLogic.csproj": {
+              "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\ConverterLogic\\ConverterLogic.csproj"
             }
           }
         }

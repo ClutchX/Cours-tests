@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{AF19D3E4-A04D-409E-AEAA-0A2EF8052A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Converter", "Converter\Converter.csproj", "{AF19D3E4-A04D-409E-AEAA-0A2EF8052A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterLogic", "ConverterLogic\ConverterLogic.csproj", "{4F728AC0-4FC1-493C-B79D-4A8FB69E6774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConverterLogic", "ConverterLogic\ConverterLogic.csproj", "{4F728AC0-4FC1-493C-B79D-4A8FB69E6774}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6B278F6B-B6DC-4F58-BC37-C7C697D6FEF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6B278F6B-B6DC-4F58-BC37-C7C697D6FEF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{360688F7-93E3-4E0E-840E-3D0139EDF160}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\ConverterLogic\\ConverterLogic.csproj",
+      "projectUniqueName": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\ConverterLogic\\ConverterLogic.csproj",
       "projectName": "ConverterLogic",
-      "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\ConverterLogic\\ConverterLogic.csproj",
+      "projectPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\ConverterLogic\\ConverterLogic.csproj",
       "packagesPath": "C:\\Users\\i325551\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Projets\\TestExerciceConverter\\ConverterLogic\\obj\\",
+      "outputPath": "C:\\Users\\i325551\\Documents\\CampusID\\Tests\\Github\\Cours-tests\\ConverterLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
