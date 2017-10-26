@@ -1,4 +1,4 @@
-language: chsarp
+language: csharp
 solution: TestExerciceConverter.sln
 mono: none
 dotnet: 2.0.0
