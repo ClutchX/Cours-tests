@@ -1,0 +1,13 @@
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\Converter.deps.json
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\Converter.runtimeconfig.json
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\Converter.runtimeconfig.dev.json
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\Converter.dll
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\Converter.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfoInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfo.cs
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.dll
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\ConverterLogic.dll
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\bin\Debug\netcoreapp2.0\ConverterLogic.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\Converter\obj\Debug\netcoreapp2.0\Converter.csprojResolveAssemblyReference.cache

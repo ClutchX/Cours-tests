@@ -1,0 +1,9 @@
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\bin\Debug\netcoreapp2.0\ConverterLogic.deps.json
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\bin\Debug\netcoreapp2.0\ConverterLogic.dll
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\bin\Debug\netcoreapp2.0\ConverterLogic.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.csproj.CoreCompileInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.AssemblyInfoInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.AssemblyInfo.cs
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.dll
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Projets\TestExerciceConverter\ConverterLogic\obj\Debug\netcoreapp2.0\ConverterLogic.csprojResolveAssemblyReference.cache
