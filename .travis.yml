@@ -1,5 +1,5 @@
 language: chsarp
-solution: TestExerciceConverter
+solution: TestExerciceConverter.sln
 mono: none
 dotnet: 2.0.0
 dist: trusty
