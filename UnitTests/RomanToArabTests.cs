@@ -10,7 +10,7 @@ namespace UnitTests
         public void TestI()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("1");
@@ -23,7 +23,7 @@ namespace UnitTests
         public void TestV()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("5");
@@ -36,7 +36,7 @@ namespace UnitTests
         public void TestX()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("10");
@@ -49,7 +49,7 @@ namespace UnitTests
         public void TestL()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("50");
@@ -62,7 +62,7 @@ namespace UnitTests
         public void TestC()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("100");
@@ -75,7 +75,7 @@ namespace UnitTests
         public void TestD()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("500");
@@ -88,7 +88,7 @@ namespace UnitTests
         public void TestM()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("1000");
@@ -101,7 +101,7 @@ namespace UnitTests
         public void TestIV()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("4");
@@ -114,7 +114,7 @@ namespace UnitTests
         public void TestVI()
         {
             //Arrange
-            var converter = new MyConverter();
+            IConverter converter = new MyConverter();
 
             //Act
             var result = converter.Convert("6");

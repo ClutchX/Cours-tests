@@ -1,0 +1,8 @@
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\b\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.deps.json
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\b\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.dll
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\b\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.pdb
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\i\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.csproj.CoreCompileInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\i\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.AssemblyInfoInputs.cache
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\i\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.AssemblyInfo.cs
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\i\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.dll
+C:\Users\i325551\Documents\CampusID\Tests\Github\Cours-tests\.vs\TestExerciceConverter\lut\0\i\ConverterLogic\Debug\netcoreapp2.0\ConverterLogic.pdb
